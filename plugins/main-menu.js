@@ -42,7 +42,7 @@ let tags = {
 };
 
 const defaultMenu = {
-  before:  ` 𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘
+  before:  ` 𝘊𝘜𝘌𝘙𝘝𝘖_𝘉𝘖𝘛-𝘚𝘛 🐦‍⬛
 
 ╒═════〔 *I N F O • U S E R* 〕
 │ ⟶ 𝙽𝚘𝚖𝚋𝚛𝚎     : %name
@@ -58,8 +58,8 @@ const defaultMenu = {
 ╘═════════════════
 
 %readmore
-        𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘
-El mejor bot de WhatsApp 🥵
+        𝐂𝐔𝐄𝐑𝐕𝐎_𝐁𝐎𝐓-𝐒𝐓 🐦‍⬛
+El mejor bot de WhatsApp🐦‍⬛
 `.trimStart(),
   header: '`✧͜͡҉MENU %category⛤⃗͜ᬏ᭄`\n\n┌─⋅☆·̇·̣̇̇·̣̣̇·̣̇̇·̇⸼݇҉ֻ᠂⃟🥷୨୧┈┈┈୨୧⸼݇҉ֻ᠂⃟⚔️·̇·̣̇̇·̣̣̇·̣̇̇☆─⋅┐',
   body: '│ ⋆ ҈͜͡➳ %cmd*\n',
@@ -185,8 +185,8 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
       },
     ];
 
-    let img = 'https://qu.ax/sBBQh.jpg';
-    await m.react('⚔️');
+    let img = 'https://files.catbox.moe/seuw0z.jpg';
+    await m.react('🖤');
 
     await conn.sendMessage(
       m.chat,
