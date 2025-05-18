@@ -14,7 +14,6 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
-> ***¡PUEDES INSTLAR EL BOT EN ALGUN [HOSTING](https://ctrl.luminarys.shop/) YA QUE NO SE LE DA MANTENIMIENTO EN TERMUX!***
 
 #### **`🌠 Click en la imagen para obtener termux`**
 <a
@@ -38,7 +37,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/thecarlos19/black-clover-MD&& cd black-clover-MD
+git clone https://github.com/fedelanYT/Cuervo_Bot-ST && cd Cuervo_Bot-ST
 ```
 
 ```bash
