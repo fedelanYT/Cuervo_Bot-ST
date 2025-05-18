@@ -19,9 +19,9 @@ export async function before(m, { conn, participants, groupMetadata }) {
  if (chat.welcome && m.messageStubType === 27) {
     this.sendMessage(m.chat, { audio: { url: vn }, 
     contextInfo: { forwardedNewsletterMessageInfo: { 
-    newsletterJid: "120363307694217288@newsletter",
+    newsletterJid: "120363402097425674@newsletter",
     serverMessageId: '', 
-    newsletterName: ' 𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘' }, forwardingScore: 9999999, isForwarded: true, mentionedJid: getMentionedJid(), "externalAdReply": { 
+    newsletterName: ' 𝘊𝘶𝘦𝘳𝘷𝘰_𝘉𝘰𝘵-𝘚𝘛' }, forwardingScore: 9999999, isForwarded: true, mentionedJid: getMentionedJid(), "externalAdReply": { 
     "title": `♧ ＷＥＬＣＯＭＥ ⫷┈┈╯`, 
     "body": `${userName}`, 
     "previewType": "PHOTO", 
@@ -35,9 +35,9 @@ export async function before(m, { conn, participants, groupMetadata }) {
   if (chat.welcome && (m.messageStubType === 28 || m.messageStubType === 32)) {
     this.sendMessage(m.chat, { audio: { url: vn2 }, 
     contextInfo: { forwardedNewsletterMessageInfo: { 
-    newsletterJid: "120363307694217288@newsletter",
+    newsletterJid: "120363402097425674@newsletter",
     serverMessageId: '', 
-    newsletterName: ' 𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘' }, forwardingScore: 9999999, isForwarded: true, mentionedJid: getMentionedJid(), "externalAdReply": { 
+    newsletterName: '𝘊𝘶𝘦𝘳𝘷𝘰_𝘉𝘰𝘵-𝘚𝘛' }, forwardingScore: 9999999, isForwarded: true, mentionedJid: getMentionedJid(), "externalAdReply": { 
     "title": `  ͟͞ Ａ Ｄ Ｉ Ｏ Ｓ ͟͞  `, 
     "body": `${userName}, se despide.`, 
     "previewType": "PHOTO", 
