@@ -1,8 +1,3 @@
-
-> *“No es magia, es el mejor bot.”*
-
-
-
 <h1 align="center">CUERVO_BOT-ST </p>
 <p>
         <img src= "https://files.catbox.moe/a0c21c.jpg">
