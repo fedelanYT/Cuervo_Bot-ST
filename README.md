@@ -3,15 +3,15 @@
 
 
 
-<h1 align="center">B L A C K C L O V E R </p>
+<h1 align="center">CUERVO_BOT-ST </p>
 <p>
-        <img src= "https://qu.ax/gmOLP.jpg">
+        <img src= "https://files.catbox.moe/a0c21c.jpg">
     </p>
     <p align="center">
 <p align="center">
 
 <p align="center">
-<a href="https://wa.me/525544876071"><img title="Author" src="https://img.shields.io/badge/CARLOS OFC-black?style=for-the-badge&logo=whatsApp"></a>
+<a href="https://wa.me/5491156178758"><img title="Author" src="https://img.shields.io/badge/CARLOS OFC-black?style=for-the-badge&logo=whatsApp"></a>
 <p/>
 
 
