@@ -64,7 +64,7 @@ npm start
 
 
 
-## `𝑷𝒓𝒐𝒑𝒊𝒆𝒕𝒂𝒓𝒊𝒐 𝑫𝒆𝒍 𝑩𝒐𝒕` 
-<a href="https://github.com/thecarlos19"><img src="https://github.com/thecarlos19.png" width="250" height="250" alt="thecarlos19"/></a>
+## `𝑷𝒓𝒐𝒑𝒊𝒆𝒕𝒂𝒓𝒊𝒐👑` 
+<a href="https://github.com/fedelanYT"><img src="https://github.com/fedelanYT.png" width="250" height="250" alt="fedelanYT"/></a>
 
 [© Powered By the-legends ⚡︎](https://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w)
