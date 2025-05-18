@@ -40,16 +40,16 @@ global.blackJadibts = true
 //*─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─*
 
 global.packsticker = `♾ ━━━━━━━━\n├ ɓσƭ:\n├ ρяοριєταяιο:\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
-global.packname = `𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘`
-global.author = `♾━━━━━━━━\n⇝͟͞𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘͟ ⋆\n⇝ ۵-̱̅ⁱ𝐓𝐇𝐄 𝐂𝐀𝐑𝐋𝐎𝐒-͞ˍ\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: ৎ𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘͟ `;
-global.wm = '𝑩𝒍𝒂𝒄𝒌 𝑪𝒍𝒐𝒗𝒆𝒓 ☘';
-global.titulowm = '𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘';
+global.packname = `𝐂𝐔𝐄𝐑𝐕𝐎_𝐁𝐎𝐓-𝐒𝐓`
+global.author = `♾━━━━━━━━\n⇝͟͞𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘͟ ⋆\n⇝ ۵-̱̅ⁱ𝐓𝐇𝐄 𝐂𝐀𝐑𝐋𝐎𝐒-͞ˍ\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: ৎ𝘊𝘜𝘌𝘙𝘝𝘖_𝘉𝘖𝘛-𝘚𝘛 ☘͟ `;
+global.wm = '𝐂𝐔𝐄𝐑𝐕𝐎_𝐁𝐎𝐓-𝐒𝐓';
+global.titulowm = '𝐂𝐔𝐄𝐑𝐕𝐎_𝐁𝐎𝐓-𝐒𝐓';
 global.igfg = 'ᥫ𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛'
-global.botname = '𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ the Legends ⚡'
-global.textbot = '𝑩𝑳𝑨𝑪𝑲 𝑪𝑳𝑶𝑽𝑬𝑹  : 𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛'
+global.botname = '𝐂𝐔𝐄𝐑𝐕𝐎_𝐁𝐎𝐓-𝐒𝐓'
+global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ the 𝘊𝘜𝘌𝘙𝘝𝘖_𝘉𝘖𝘛 ⚡'
+global.textbot = '𝘊𝘜𝘌𝘙𝘝𝘖_𝘉𝘖𝘛-𝘚𝘛  : 𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛'
 global.gt = '͟͞𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘͟͞';
-global.namechannel = '𝑩𝑳𝑨𝑪𝑲 𝑪𝑳𝑶𝑽𝑬𝑹 / 𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛'
+global.namechannel = '𝐂𝐔𝐄𝐑𝐕𝐎_𝐁𝐎𝐓-𝐒𝐓 / 𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛'
 
 //*─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─*
 
