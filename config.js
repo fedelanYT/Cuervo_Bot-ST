@@ -46,7 +46,7 @@ global.wm = '𝐂𝐔𝐄𝐑𝐕𝐎_𝐁𝐎𝐓-𝐒𝐓';
 global.titulowm = '𝐂𝐔𝐄𝐑𝐕𝐎_𝐁𝐎𝐓-𝐒𝐓';
 global.igfg = 'ᥫ𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛'
 global.botname = '𝐂𝐔𝐄𝐑𝐕𝐎_𝐁𝐎𝐓-𝐒𝐓'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ the 𝘊𝘜𝘌𝘙𝘝𝘖_𝘉𝘖𝘛 ⚡'
+global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ 𝘊𝘜𝘌𝘙𝘝𝘖_𝘉𝘖𝘛 ⚡'
 global.textbot = '𝘊𝘜𝘌𝘙𝘝𝘖_𝘉𝘖𝘛-𝘚𝘛  : 𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛'
 global.gt = '͟͞𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘͟͞';
 global.namechannel = '𝐂𝐔𝐄𝐑𝐕𝐎_𝐁𝐎𝐓-𝐒𝐓 / 𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛'
@@ -55,24 +55,24 @@ global.namechannel = '𝐂𝐔𝐄𝐑𝐕𝐎_𝐁𝐎𝐓-𝐒𝐓 / 𝘧𝘦�
 
 global.moneda = 'monedas'
 
-//• ↳ ◜𝑳𝑰𝑵𝑲𝑺  𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃𝐒 ™◞ • 🌿
-global.gp4 = 'https://chat.whatsapp.com/GrcUknwrJbNIXIIrbsuXc0' //Grupo Oficial De black clover 
-global.gp1 = 'https://chat.whatsapp.com/FiBcPMYEO7mG4m16gBbwpP' //Grupo 2
-global.gp2 = 'https://chat.whatsapp.com/G9zQlCHDBrn99wcC2FyWgm'//
-global.comunidad1 = 'https://chat.whatsapp.com/JaGwnrKgL7w15uAFZmZBIw' //Comunidad THE LEGENDS 
-global.channel = 'https://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w' //Canal Oficial
-global.channel2 = 'https://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w' //Canal test 
+//• ↳ ◜𝑳𝑰𝑵𝑲𝑺  𝘾𝙐𝙀𝙍𝙑𝙊_𝘽𝙊𝙏-𝙎𝙏 ™◞ • 🌿
+global.gp4 = 'https://chat.whatsapp.com/L6Aiv7yk9YNEcmgGn4Sw7u' //Grupo Oficial De black clover 
+global.gp1 = 'https://chat.whatsapp.com/L6Aiv7yk9YNEcmgGn4Sw7u' //Grupo 2
+global.gp2 = 'https://chat.whatsapp.com/L6Aiv7yk9YNEcmgGn4Sw7u'//
+global.comunidad1 = 'https://chat.whatsapp.com/KnnNE2ywbwh1DHK6ceLfCu' //Comunidad THE LEGENDS 
+global.channel = 'https://whatsapp.com/channel/0029VbApe6jG8l5Nv43dsC2N' //Canal Oficial
+global.channel2 = 'https://whatsapp.com/channel/0029VbApe6jG8l5Nv43dsC2N' //Canal test 
 global.yt = 'https://www.youtube.com/@ElCarlos.87' //Canal De Youtube
 global.md = 'https://github.com/thecarlos19/black-clover-MD' //Github Oficial
 global.correo = ''
-global.cn ='https://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w';
+global.cn ='https://whatsapp.com/channel/0029VbApe6jG8l5Nv43dsC2N';
 
 //*─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─*
 
 global.catalogo = fs.readFileSync('./src/catalogo.jpg');
 global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: packname, orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 global.ch = {
-ch1: '120363307694217288@newsletter',
+ch1: '120363402097425674@newsletter',
 }
 global.multiplier = 70
 
